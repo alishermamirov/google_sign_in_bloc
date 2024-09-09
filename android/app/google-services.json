@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063329829401",
+    "project_id": "sign-in-bloc-7df23",
+    "storage_bucket": "sign-in-bloc-7df23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063329829401:android:e7ba9429b5130cbaa41088",
+        "android_client_info": {
+          "package_name": "uz.alisher.google_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow3iIc0i2n5ehK4vuqKJKMDxZSgVFzpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
